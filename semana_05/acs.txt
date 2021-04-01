@@ -1,0 +1,33 @@
+//ARQUITECTURA CLIENTE SERVIDOR
+//Sesion modulo_03 semana_05 30/03/2021
+
+
+
+//Server-Client 
+Client: A laptop, PC, phone, etc., which sends requests to the server
+Has an active role in communication because this sends the requests, waits 
+and receives the answer 
+
+Server: A big computer or set of these, with many resources, able to receive a 
+lot of requests.
+A server have a passive role in communication, since this wait to the requests.
+After receiving the request, It is processed and the response is sent to the client.
+This can receive a big number of requests and clients.
+Client --> Request --> Server --> Answer --> Client
+
+
+//Internet
+Computer networks that are interconnected in a world level to share information
+
+
+//Web Page
+Is a document able to contain different content and it can be accessed through a browser 
+
+
+//Http
+Is a protocol which allows us to perform any exchange of data in the web. It has a 
+client-server structure and the request for data is normally made by a browser.   
+
+
+//HTML
+We all know how html works 

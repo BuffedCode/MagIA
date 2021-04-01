@@ -1,0 +1,14 @@
+//GUIA REPOSITORIO MAGIA 
+
+// Jofay Zhan 02/03/2021 - ...
+
+
+En este documento .txt explicara como esta separado y clasificado las carpetas y codigos del programa MagIA el cual tiene como enfoque adentrar a jovenes en la IA.
+
+Primero que todo estan las carpetas que dicen reforzamientoM2, M3 y M4, en estas se encuentran los codigos o ejercicios resueltos de reforzamiento de cada modulo. (M2=modulo2)
+
+Despues encontramos las carpetas de semana donde se pueden visualizar codigos separados por semana, de la semana_01 a la semana_04 se encuentran los codigos del modulo_02 "Aprendiendo a programar", de la semana_05 a la semana_07 podemos ver los codigos del modulo_03 "El poder de los servidores".
+
+//SI NO SE ENCUENTRAN COODIGOS EN ALGUNA DE LAS CARPETAS ES PORQUE EL CURSO AUN NO A CULMINADO
+
+
