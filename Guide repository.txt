@@ -52,9 +52,5 @@ a este link: https://m365edu464508.sharepoint.com/:x:/r/sites/ImagineCupJr/_layo
 Tambien puedes ver el repositorio de ellos que esta mejor documentado: https://github.com/intevolution/MagIAJuvenil2021.git
 
 
-//Po ultimo me gustaria que me dieras sugerencias o criticas aserca de mi codigo
-<<<<<<< HEAD
-// y mi repositorio para asi poder mejorar. :) ☺☻
-=======
-// y mi repositorio para asi poder mejorar. :) ☺☻
->>>>>>> ec87ae4065fdda553d097500c3ef918e8d76678d
+//Por ultimo me gustaria que me dieras sugerencias o criticas aserca de mi codigo
+y mi repositorio para asi poder mejorar. :) ☺☻
