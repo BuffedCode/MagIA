@@ -53,4 +53,8 @@ Tambien puedes ver el repositorio de ellos que esta mejor documentado: https://g
 
 
 //Po ultimo me gustaria que me dieras sugerencias o criticas aserca de mi codigo
+<<<<<<< HEAD
 // y mi repositorio para asi poder mejorar. :) ☺☻
+=======
+// y mi repositorio para asi poder mejorar. :) ☺☻
+>>>>>>> ec87ae4065fdda553d097500c3ef918e8d76678d
