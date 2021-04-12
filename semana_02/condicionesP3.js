@@ -31,7 +31,7 @@ else{
 
 
 /*Ejercicio_02
-Cada vezque una persone ingre un deporte, te dira
+Cada vez que una persone ingrese un deporte, te dira
 el horario que le corresponde para la cancha */
 
 var sport =prompt("A que deporte perteneces: ");

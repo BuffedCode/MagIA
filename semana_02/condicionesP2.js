@@ -37,7 +37,7 @@ switch(switch1){
     case 6: 
         console.log("El valor ingresado es 6");
         break;
-        case "Pepe":
+    case "Pepe":
             console.log("Hola Pepe")
             if(edad == 18){
                 console.log("Felicidades eres mayor de edad");

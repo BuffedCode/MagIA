@@ -1,3 +1,9 @@
+//NOTAS MODULO_03 SEMANA_05//
+
+
+
+
+
 //ARQUITECTURA CLIENTE SERVIDOR
 //Sesion modulo_03 semana_05 30/03/2021
 
@@ -31,3 +37,25 @@ client-server structure and the request for data is normally made by a browser.
 
 //HTML
 We all know how html works 
+
+
+
+
+//SERVIDORES WEB PARTE_02
+//Sesion modulo_03 semana_05 03/04/2021
+
+
+
+//URL
+Mediante una url podemos acceder a cualquier contenido en la web por 
+medio de un navegador web. Una url se compone de diferentes partes:
+
+    •Protocolo: La forma con la que nos comunicaremos con el servidor 
+    web
+    •Direccion: Nombre que identifica a una direccion numerica de 
+    internet llamada Ip
+    •Puerto: Indica el lugar donde podemos acceder a los recursos
+    del servidor web.(HTTP utiliza el puerto 80)
+
+
+
