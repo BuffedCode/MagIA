@@ -1,2 +1,5 @@
 Esto es una prueba para ver como solucionar un conflicto.
 Debe de ser eliminado
+
+
+haciendo modificaciones en la rama -b
