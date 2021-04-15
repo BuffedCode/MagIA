@@ -1,0 +1,29 @@
+//NOTAS MODULO_03 SEMANA_07//
+
+
+
+
+//Servicios REST parte_02
+//Sesion modulo_03 semana_07 13/04/2021
+
+
+
+//API(Interfaz de programacion de aplicaciones)
+    Conjunto de especificaciones y reglas que permiten que un programa se comunico con 
+    otro.
+    En la web las APIs son publicadas por sitios para brindar la posibilidad de realizar  alguna 
+    accion o acceder alguna caracteristica o contenido.
+
+
+//API REST o RESTful 
+    Es un servicio en el que implementamos REST, en donde se crea una  API y se deben seguir las 
+    siguientes pautas:
+
+        • El uso de hipermedios: El usuario puede navegar por los distintos recursos de una APIREST 
+        a traves de enlaces HTML 
+        • Independiencia de lenguajes: No importa el lenguaje en el que este implementado tanto el 
+        cliente como el servidor, basta con saber que las respuestas se reciben en un cierto formato
+        • Los recursos en una API REST se identifican por medio de URL, sera esa misma URL la que 
+        permitira acceder al recurso o realizar cualquier operacion de modificacion sobre el mismo
+        • Las APIs deben manejar cualquier error que se produzca, devolviendo la informacion de error 
+        adecuada al cliente. 
