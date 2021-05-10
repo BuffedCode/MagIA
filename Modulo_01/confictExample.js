@@ -2,4 +2,4 @@
 // de generar el conflicto para despues ser solucionado
 
 
-//Haciendo un cambio en la rama-B
+//Hacemos modificacion en la rama-A
