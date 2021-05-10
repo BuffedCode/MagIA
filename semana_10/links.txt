@@ -1,0 +1,8 @@
+//Url Steven Hawking #1 = https://celebwiki.org/wp-content/uploads/2018/07/stephen-hawking_90551.jpeg
+//Url Steven Hawking #2 = https://awarenessact.com/wp-content/uploads/2018/03/stephen-hawking-_-abc13-houston.jpg
+//Url Elon Musk #3 = https://upload.wikimedia.org/wikipedia/commons/0/04/Elon_Musk_and_Hans_Koenigsmann_at_the_SpaceX_CRS-8_post-launch_press_conference_(26223624532)_(cropped).jpg
+
+
+Id Steven Hawking #1 = 137373e9-9085-416b-8bc7-447d5f557460
+Id Steven Hawking #2 = 230faf6e-5850-4e90-a4dc-d26dac2bcec8
+Id Elon Musk #1 = d86c1c9a-d7cd-45e1-983a-3a3b2438169e
