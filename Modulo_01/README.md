@@ -2,7 +2,7 @@
 Sesion modulo_01 semana_02 11/03/2021-->
 
 <!--Encabezados-->
-# Encabezado 
+# Esto es un ejemplo de como usar Markdown 
 ## Encabezado 
 ### Encabezado
 #### Encabezado
@@ -10,11 +10,11 @@ Sesion modulo_01 semana_02 11/03/2021-->
 ###### Encabezado
 
 <!--Tipos de texto-->
+lorem ipsum dolor sit amet
+
 *lorem ipsum dolor sit amet*
 
 **lorem ipsum dolor sit amet**
-
-lorem ipsum dolor sit amet
 
 <!--Listas-->
 * lorem
