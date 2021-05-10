@@ -48,10 +48,9 @@ con la misma duracion
 
 
 ### **Mas sobre MagIA Juvenil**
-Si quieres consultar el calendario y los temas vistos mas detalladamente puedes entrar a este link: https://m365edu464508.sharepoint.com/:x:/r/sites/ImagineCupJr/_layouts/15/WopiFrame2.aspx?sourcedoc=%7Bdfacce8a-4ee3-4cd6-98db-60141e3c40f4%7D&action=edit&cid=05996099-545e-4a0e-959b-d3a69f25f2c0
+Si quieres consultar el calendario y los temas vistos mas detalladamente puedes entrar a este [link.](https://m365edu464508.sharepoint.com/:x:/r/sites/ImagineCupJr/_layouts/15/WopiFrame2.aspx?sourcedoc=%7Bdfacce8a-4ee3-4cd6-98db-60141e3c40f4%7D&action=edit&cid=05996099-545e-4a0e-959b-d3a69f25f2c0)
 
-Tambien puedes ver el repositorio de ellos que esta mejor documentado: https://github.com/intevolution/MagIAJuvenil2021.git
+Tambien puedes ver el [repositorio](https://github.com/intevolution/MagIAJuvenil2021.git) de ellos que esta mejor documentado
 
 
-//Po ultimo me gustaria que me dieras sugerencias o criticas aserca de mi codigo
-// y mi repositorio para asi poder mejorar. :) ☺☻
+> Por ultimo me gustaria que me dieras sugerencias o criticas aserca de mi codigo y mi repositorio para asi poder mejorar. :) ☺☻
