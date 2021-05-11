@@ -1,5 +1,5 @@
 # GUIA REPOSITORIO MAGIA JUVENIL
-## Jofay Zhan Segura 02/03/2021 - ...
+## 02/03/2021 - ...
 >*!Puede que no todos los codigos, ejercicios, carpetas o documentacion este, ya que el programa aun no hay culminado.!*
 
 ---
